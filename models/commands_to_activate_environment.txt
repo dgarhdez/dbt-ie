@@ -1,7 +1,0 @@
-# To go to the folder:
-cd "C:\Users\LukaCheishvili\Documents\GitHub\Analytics Engineering\dbt-ie"
-
-# To activate the environment:
-cd "C:\Users\LukaCheishvili\Documents\GitHub\Analytics Engineering\dbt-ie"
-
-.\.venv\Scripts\Activate.ps1
